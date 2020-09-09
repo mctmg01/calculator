@@ -5,6 +5,8 @@ a pocket calculator.
 
 [![Build Status](https://dev.azure.com/az400mg/Parts%20Unlimited%2005/_apis/build/status/mctmg01.calculator?branchName=master)](https://dev.azure.com/az400mg/Parts%20Unlimited%2005/_build/latest?definitionId=3&branchName=master)
 
+https://dev.azure.com/az400mg/Parts%20Unlimited%2005/_apis/build/status/mctmg01.calculator?branchName=master
+
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
